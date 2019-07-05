@@ -8,6 +8,7 @@
         <button id="btnSearch">Search</button>
         <button id="btnAdd">Add New</button>
         <button id="btnDelete">Delete</button>
+        <button id="btnDelete2">Delete2</button>
         <div id="tbChucVu">
         </div>
 
