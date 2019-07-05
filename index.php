@@ -9,6 +9,7 @@
         <button id="btnAdd">Add New</button>
         <button id="btnDelete">Delete</button>
         <button id="btnDelete2">Delete2</button>
+        <button id="btnDelete3">Delete3</button>
         <div id="tbChucVu">
         </div>
 
